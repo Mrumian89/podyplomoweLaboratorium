@@ -7,6 +7,7 @@ public class Podyplomowe {
 
         System.out.println("\nNumer " + a + b);
 
+// to jest dowolny komentarz
 
     }
 }
